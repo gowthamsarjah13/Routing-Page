@@ -1,0 +1,122 @@
+/* .parent{
+  margin: 2px;
+} */
+.child1,.child2{
+  /* border: 1px solid red; */
+  height: auto;
+}
+.child1{
+  background-color:#4e73df;
+  color: #ffffff;
+}
+
+.navi-col{
+  height: 100px;
+  background-color: #ffffff;
+  /* border: 1px solid red; */
+}
+
+.children-col{
+  height: auto;
+ background-color: #f8f9fc;
+}
+
+.searbar-parent{
+  margin-top: 30px;
+}
+
+.navi-icon{
+  margin-top: 30px;
+  border-right: 1px solid gray;
+}
+.svg-bell{
+  margin: 10px;
+}
+.navi-end{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 40px;
+}
+.navi-person-icon{
+  margin-left: 5px;
+}
+
+/* ***************************Navi end here*************************************** */
+
+.admin-icon,.speed-meter{
+  margin: 5px;
+}
+
+.dash-button{
+  border: none;
+  background-color: inherit;
+}
+.form-select{
+  margin-top: 15px;
+}
+.chart-icon,.table-icon{
+  margin-right: 5px;
+  margin-top: 5px;
+}
+.chart-htag{
+  padding: 5px;
+}
+
+/* ***************************left side bar end here*************************************** */
+
+.download-icon{
+  margin-right: 5px;
+}
+#badgedownload{
+  padding: 10px;
+  margin-top: 5px;
+}
+#earnoverview{
+  height: 300px;
+}
+
+.box{
+  height: 70px;
+  width: 40%;
+  border-radius: 2px;
+}
+
+.cardbodybox{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  gap: 1rem;
+}
+
+#cardbutton{
+  height: 50vh;
+}
+#cardbutton2{
+  height: 80vh;
+}
+#cardscard{
+  height: 45vh;
+}
+
+#cardscard1{
+  height: 50vh;
+}
+#cardscard2{
+  height: 40vh;
+}
+.loginParent{
+  background-color: #4268d6;
+  height: 100vh;
+}
+.dogimg{
+  width: 100%;
+  margin-left: -2%;
+}
+
+.fournotparent{
+   height: 85vh;
+}
+.blankparent{
+  height: 75vh;
+}
